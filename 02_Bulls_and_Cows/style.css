@@ -1,0 +1,30 @@
+html,
+body {
+  height: 100%;
+  font-style: 14px;
+  background-color: rgb(31, 31, 31);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+}
+
+* {
+  text-align: center;
+  margin-top: 10px;
+}
+
+h1,
+h2,
+p {
+  margin: 0.5rem;
+  color: white;
+}
+
+#logsArea {
+  text-align: left;
+  font-style: 0.9rem;
+  resize: none;
+}
+
+#guessInput {
+  width: 10%;
+}
